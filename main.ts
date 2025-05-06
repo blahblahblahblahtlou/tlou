@@ -20,8 +20,8 @@ mySprite2 = sprites.create(img`
     ......e1111111e..
     .......e111111e..
     .......e1111111e.
-    .........e11111e.
-    .........e11111ee
+    .........e6566656
+    .........66656665
     `, SpriteKind.Player)
 scene.cameraFollowSprite(mySprite2)
 tiles.setCurrentTilemap(tilemap`level1`)
